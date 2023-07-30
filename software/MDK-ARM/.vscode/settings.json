@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "receiver.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "usart.h": "c",
+        "imu.h": "c",
+        "motor.h": "c",
+        "press.h": "c",
+        "inttypes.h": "c",
+        "control.h": "c",
+        "spid.h": "c",
+        "math_tool.h": "c",
+        "limits": "c",
+        "utility": "c",
+        "airspeed_ms4525do.h": "c",
+        "stdio.h": "c"
+    }
+}
