@@ -6,6 +6,11 @@
  [https://github.com/cherishyourself/Automatic-flap/tree/master](https://github.com/cherishyourself/Automatic-flap/tree/master)
 开发板：stm32f103c8t6
 空速计：MS4525DO
+## 使用教程
+### 【1】 文档包含两个MS4525D0说明书
+### 【2】 硬件部分，包括主板的原理图、PCB、制版文件和M4525DO的原理图、PCB、制版文件
+### 【3】 软件部分，包含主程序，其中press.h和press.c是MS4525DO的驱动程序
+
 # 实物图与原理图
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/dd3a5a5e44fb4cf5ace0f18f578e2237.jpeg)
 ![请添加图片描述](https://img-blog.csdnimg.cn/130ddf53edaa4d4eafb8cd63aeee1ea6.png)
